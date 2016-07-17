@@ -1,9 +1,8 @@
-# QuCmp
+# QuCmp.jl
+
+[![Build Status](https://travis-ci.org/JuliaQuantum/QuCmp.jl.svg?branch=master)](https://travis-ci.org/JuliaQuantum/QuCmp.jl)
+
 A JuliaQuantum package for simulations of quantum computers.
-
-<!-- [![Build Status](https://travis-ci.org/Roger-luo/Quantize.jl.svg?branch=master)](https://travis-ci.org/Roger-luo/Quantize.jl)
-
-Do not have a real quantum computer? Use **QuCmp** to quantize your computer!!! -->
 
 # Motivation
 
