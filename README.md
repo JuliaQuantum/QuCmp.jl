@@ -1,5 +1,7 @@
 # QuCmp.jl
 
+**This package is not under maintained anymore. For quantum computing please refer to [Yao.jl](https://yaoquantum.org/)**
+
 [![Build Status](https://travis-ci.org/JuliaQuantum/QuCmp.jl.svg?branch=master)](https://travis-ci.org/JuliaQuantum/QuCmp.jl)
 
 A JuliaQuantum package for simulations of quantum computers.
